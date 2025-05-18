@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/amsorrytola]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansari-talha/) [![Telegram](https://img.shields.io/badge/-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/tolaamsorry)
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amsorrytola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansari-talha/) [![Telegram](https://img.shields.io/badge/-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/tolaamsorry)
 
 
 
