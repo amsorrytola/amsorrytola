@@ -1,21 +1,32 @@
-<h1>Hi 👋, I'm Talha Ansari</h1>
-<h3 >A second year undergrad student at IIT ROORKEE</h3>
-<h4>Crurntly learning</h4>
+# 💫 About Me:
+🏛️ Sophomore at IIT Roorkee. <br>💻 I’m intrested in Web3 & Blockchain Development. <br>🥇 StackTooDeep 2024 • 🥇 Syntax Error 2024  • 🏆 Coinbase Prize Pool winner at Agentic Ethereum • 🥇 Bit-by-bit 2025 • 🥇 Technical General Championship (Polkadot Problem Statement) <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
 
-- **RUST**
-- **EVM**
+## 🚀 Featured Projects: 
+  
+- 🧠 **Hyperion RuneLand**  
+  [GitHub Repo](https://github.com/amsorrytola/Hyperion-RuneLand) •  Won 🥇 Technical General Championship (Polkadot Problem Statement) at IIT Roorkee  2025  
+  → A 2D decentralized game that runs on the Bitcoin blockchain using the Runes Protocol.
 
-<h4>Interested in</h4>
+- 🌉 **Secure Invoice - Onchain Real Time Payments & Invoicing**  
+  [GitHub Repo](https://github.com/Av1ralS1ngh/Velmora) • Won 🥇 at Bit by Bit Cognizance  
+  → An invoicing and real time payments application designed for freelancers, private tutors, mentors and gig workers.
 
-- **BLOCKCHAIN**
-- **WEB3**
-- **WEB DEVELOPMENT**
+- 🔋 **Gas Abstraction Wallet (ERC-4337)**  
+  [GitHub Repo](https://github.com/Av1ralS1ngh/Gas-Modulation-App)  • Won 🥇 at Syntax Error 2024  
+  → Account abstraction wallet that auto-pays gas fees for small transactions using a local pool. 
+
+- 🧠 **AI Agent Assisted DeFi Learning Platform**  
+  [GitHub Repo](https://github.com/arnavkirti/DeFi-Dojo) •  Won 🏆 Coinbase Prize Pool winner at Agentic Ethereum  
+  → Interactive platform where AI agents guide users through DeFi concepts, simulate strategies, and offer personalized learning paths.
+
+---
+
+## 🌐 Socials:
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/amsorrytola]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansari-talha/) [![Telegram](https://img.shields.io/badge/-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/tolaamsorry)
 
 
 
+# 💻 Tech Stack:
+ ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Yul](https://img.shields.io/badge/Yul-%23696969.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Cairo](https://img.shields.io/badge/Cairo-%23001E36.svg?style=for-the-badge&logo=starknet&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/><img src="https://book.getfoundry.sh/images/foundry-banner.png" alt="rust" width="40" height="40"/> <img src="https://th.bing.com/th/id/OIP.09v4KO8oqj-KJRKnGcZKcgHaFX?w=208&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="solidity" width="40" height="40"/> </a> </p>
+---
