@@ -8,7 +8,7 @@
   → A 2D decentralized game that runs on the Bitcoin blockchain using the Runes Protocol.
 
 - 🌉 **Secure Invoice - Onchain Real Time Payments & Invoicing**  
-  [GitHub Repo](https://github.com/raj210809/codekshetra2.0) • Won 🥇 at Bit by Bit Cognizance  
+  [GitHub Repo](https://github.com/arsh0429/Bit-by-Bit) • Won 🥇 at Bit by Bit Cognizance  
   → An invoicing and real time payments application designed for freelancers, private tutors, mentors and gig workers.
 
 - 🔋 **Gas Abstraction Wallet (ERC-4337)**  
