@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ Sophomore at IIT Roorkee. <br>💻 I’m intrested in Web3 & Blockchain Development. <br>🥇 StackTooDeep 2024 • 🥇 Syntax Error 2024  • 🏆 Coinbase Prize Pool winner at Agentic Ethereum • 🥇 Bit-by-bit 2025 • 🥇 Technical General Championship (Polkadot Problem Statement) <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
+🏛️ 3rd year student at IIT Roorkee. <br>💻 I’m intrested in Defi, DefAI, Ai Agents, Web3 & Blockchain Development. <br>🥇 EthOnline 2025 •🥇 Starknet Resolve 2025 •🥇 EthGlobal New Delhi 2025 •🥇 StackTooDeep 2024 • 🥇 Syntax Error 2024  • 🏆 Coinbase Prize Pool winner at Agentic Ethereum • 🥇 Bit-by-bit 2025 • 🥇 Technical General Championship (Polkadot Problem Statement) <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
 
 ## 🚀 Featured Projects: 
 - 🤖 **YieldCraft**  
