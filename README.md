@@ -2,6 +2,17 @@
 🏛️ Sophomore at IIT Roorkee. <br>💻 I’m intrested in Web3 & Blockchain Development. <br>🥇 StackTooDeep 2024 • 🥇 Syntax Error 2024  • 🏆 Coinbase Prize Pool winner at Agentic Ethereum • 🥇 Bit-by-bit 2025 • 🥇 Technical General Championship (Polkadot Problem Statement) <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
 
 ## 🚀 Featured Projects: 
+- 🤖 **YieldCraft AI — AI Agent DeFi Optimizer**  
+  [GitHub](https://github.com/YieldCraft-AI) • [Demo](https://ethglobal.com/showcase/yieldcraft-ai-96iaa) •  Won 🥇 1st Place at ETHGlobal New Delhi (Hedera Track — $2,000).  
+  → Built AI agent execution flow, vault strategy engine, and cross-chain automation with Hedera + Rootstock.
+  
+- 🛡️ **SaucerHedge — AI-Driven IL-Hedging Protocol (Hedera)**  
+  [GitHub](https://github.com/SaucerHedge) • [Demo](https://ethglobal.com/showcase/saucerhedge-4mzv0) •  Won 🥇 1st Place at ETHOnline 2025 (Hedera × Lit Protocol — $1,000).  
+  → Developed EVM contracts, 7 Vincent abilities, and LLM-based orchestration for automated, non-custodial IL protection.
+
+- ⚡ **BitYield Protocol — AI-Powered Bitcoin Yield Aggregator**  
+  [Github](https://github.com/CodeBlocker52/BitYield-Protocol) • [Demo](https://devpost.com/software/bityield-protocol) •  Won 🥇 1st Place at Starknet ReSolve Hackathon (StarkWare Prize Pool — $2,500).  
+  → Built Cairo-based ERC-4626 vaults, AI-driven rebalancer, and Xverse + Atomiq bridging for native BTC yield strategies.
   
 - 🧠 **Hyperion RuneLand**  
   [GitHub Repo](https://github.com/amsorrytola/Hyperion-RuneLand) •  Won 🥇 Technical General Championship (Polkadot Problem Statement) at IIT Roorkee  2025  
