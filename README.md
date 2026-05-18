@@ -59,7 +59,7 @@
 
 ---
 
-## 🛠️ Open Source — PLDG Contributions
+## 🛠️ Open Source
 
 A selection of PRs shipped during my Protocol Labs Dev Guild cohort across three flagship repos.
 
