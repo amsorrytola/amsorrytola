@@ -61,16 +61,23 @@
 
 ## 🛠️ Open Source
 
-A selection of PRs shipped during my Protocol Labs Dev Guild cohort across three flagship repos.
+#### A selection of PRs shipped for [OpenSre](https://github.com/Tracer-Cloud/opensre) -- The open-source framework for AI SRE agents, and the training and evaluation environment they need to improve. Connect the 60+ tools you already run, define your own workflows, and investigate incidents on your own infrastructure.
+- [PR #2747](https://github.com/Tracer-Cloud/opensre/pull/2747) -- Adds a thin, planner-selectable CloudTrail wrapper tool — OpenSRE's first AWS change-causality source — so an investigation can answer "who changed what, and when?" (IAM changes, security-group mutations, EKS/Lambda config updates, deletions) at the start of an AWS post-mortem.
+- [PR #2679](https://github.com/Tracer-Cloud/opensre/pull/2679) -- Adds a Jenkins CI/CD integration — OpenSRE's first CI/CD source — so investigations can answer "was there a recent build or deployment that coincides with this alert?"
+- [PR #2663](https://github.com/Tracer-Cloud/opensre/pull/2663) -- Adds short terminal GIF demonstrations after the first three Quickstart steps, as requested in #2658, so new users can see the expected workflow and a successful run of each step — now with both macOS/Linux and Windows demos
 
-### Storacha / rclone — cross-cloud CLI (S3 ↔ Storacha ↔ IPFS via CIDs)
+
+
+#### A selection of PRs shipped during my Protocol Labs Dev Guild cohort across three flagship repos.
+
+##### Storacha / rclone — cross-cloud CLI (S3 ↔ Storacha ↔ IPFS via CIDs)
 - [PR #6](https://github.com/gulshanpr/storacha-rclone/pull/6) — `cp` command (S3 → Storacha) with streaming upload
 - [PR #7](https://github.com/gulshanpr/storacha-rclone/pull/7) — S3 object deletion with batch support
 - [PR #8](https://github.com/gulshanpr/storacha-rclone/pull/8) — `storacha-rm` command for removing uploads from a Storacha space
 - [PR #9](https://github.com/gulshanpr/storacha-rclone/pull/9) — `storacha-get` command to download files from Storacha
 - [PR #10](https://github.com/gulshanpr/storacha-rclone/pull/10) — Bidirectional `cp` command (Storacha ↔ S3)
 
-### AkaveLog / akave-pldg — distributed log ingestion in Go
+##### AkaveLog / akave-pldg — distributed log ingestion in Go
 - [Issue #24](https://github.com/akave-ai/akave-pldg/issues/24) — Phase 3: Storage Layer (Akave O3 integration)
 - [PR #14](https://github.com/anuragShingare30/akave-pldg/pull/14) — Phase 4: Metadata indexing layer (PostgreSQL)
 - [PR #15](https://github.com/anuragShingare30/akave-pldg/pull/15) — Phase 5: Streaming query engine
@@ -78,7 +85,7 @@ A selection of PRs shipped during my Protocol Labs Dev Guild cohort across three
 - [PR #17](https://github.com/anuragShingare30/akave-pldg/pull/17) — Phase 7: Alerting layer (threshold/keyword workers)
 - [PR #20](https://github.com/anuragShingare30/akave-pldg/pull/20) — Phase 8: Identity layer / API-key auth
 
-### Akave Crosschain Archive — Go decoders + REST APIs
+##### Akave Crosschain Archive — Go decoders + REST APIs
 - [PR #29](https://github.com/Patrick-Ehimen/akave-crosschain-archive/pull/29) — Wormhole protocol decoder (VAA parsing, address normalization)
 - [PR #31](https://github.com/Patrick-Ehimen/akave-crosschain-archive/pull/31) — Chainlink CCIP v1.2 decoder (ABI decoding via reflection)
 - [PR #40](https://github.com/Patrick-Ehimen/akave-crosschain-archive/pull/40) — Address History + Message Trace REST APIs
