@@ -62,6 +62,8 @@
 ## 🛠️ Open Source
 
 #### A selection of PRs shipped for [OpenSre](https://github.com/Tracer-Cloud/opensre) -- The open-source framework for AI SRE agents, and the training and evaluation environment they need to improve. Connect the 60+ tools you already run, define your own workflows, and investigate incidents on your own infrastructure.
+
+- [PR #2891](https://github.com/Tracer-Cloud/opensre/pull/2891) -- This PR delivers the P1 scope of [issue #2831](https://github.com/Tracer-Cloud/opensre/issues/2831) — three read-only Redis investigation tools that extend coverage beyond the baseline diagnostics (server info, slowlog, replication, key scan). Following the issue guidance to "start with P1 and ensure a demo is there e2e", it targets the highest-signal diagnostics for the most common Redis incidents: queue backlogs, connection-pool exhaustion, and latency spikes
 - [PR #2747](https://github.com/Tracer-Cloud/opensre/pull/2747) -- Adds a thin, planner-selectable CloudTrail wrapper tool — OpenSRE's first AWS change-causality source — so an investigation can answer "who changed what, and when?" (IAM changes, security-group mutations, EKS/Lambda config updates, deletions) at the start of an AWS post-mortem.
 - [PR #2679](https://github.com/Tracer-Cloud/opensre/pull/2679) -- Adds a Jenkins CI/CD integration — OpenSRE's first CI/CD source — so investigations can answer "was there a recent build or deployment that coincides with this alert?"
 - [PR #2663](https://github.com/Tracer-Cloud/opensre/pull/2663) -- Adds short terminal GIF demonstrations after the first three Quickstart steps, as requested in #2658, so new users can see the expected workflow and a successful run of each step — now with both macOS/Linux and Windows demos
